@@ -10,8 +10,6 @@ Walmart invests in technology and innovation to enhance its sales operations, in
 # project description:
 The project visualize the Walmart Sale that happened from 2011 to 2015.Creating a comprehensive dashboard to analyze various aspects of sales data from Walmart.It includes visualizations on sales trends, product performance, geographical distribution of sales, customer demographics, seasonal variations. The project involves data extraction, transformation, and loading (ETL) processes to prepare the data for analysis.
 
-# the project video link
-
 # Walmart Sales power bi user interface (overall years Report )
 ![Screenshot (78)](https://github.com/Shivaniipandey/Walmart-Sales-Power-Bi-Dashboard-Project/assets/152076688/ad20b672-2d41-4b29-ba83-b3939e798adc)
 
